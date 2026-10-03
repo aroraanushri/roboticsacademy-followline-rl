@@ -1,0 +1,11 @@
+{
+  "camera_topic": "/f1/camera/image_raw",
+  "cmd_topic": "/f1/cmd_vel",
+  "world": "default",
+  "dt": 0.1,
+  "speed": 0.5,
+  "max_w": 1.0,
+  "max_steps": 100,
+  "lost_limit": 3,
+  "timeout": 15.0
+}

@@ -1,0 +1,23 @@
+{
+  "camera_topic": "/f1/camera/image_raw",
+  "cmd_topic": "/f1/cmd_vel",
+  "clock": 162.781,
+  "image_stamp": 162.65,
+  "command_subscribers": 1,
+  "command_publishers_including_probe": 1,
+  "world_control": "/world/default/control",
+  "ros_distro": "humble",
+  "line_features_far_to_near": [
+    -0.00021162960911169648,
+    -0.002565104281529784,
+    -0.005361514165997505,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "shape": [
+    480,
+    640,
+    3
+  ]
+}

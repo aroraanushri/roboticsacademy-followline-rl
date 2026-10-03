@@ -1,0 +1,26 @@
+[
+  {
+    "episode": 0,
+    "steps": 1000,
+    "return": 978.4411044774105,
+    "mean_abs_image_error": 0.021514029803918675,
+    "mean_step_sim_seconds": 0.19305,
+    "end_reason": "time_limit"
+  },
+  {
+    "episode": 1,
+    "steps": 1000,
+    "return": 978.3147903081039,
+    "mean_abs_image_error": 0.02163838028907776,
+    "mean_step_sim_seconds": 0.20005,
+    "end_reason": "time_limit"
+  },
+  {
+    "episode": 2,
+    "steps": 1000,
+    "return": 978.1880963398462,
+    "mean_abs_image_error": 0.021768376337378867,
+    "mean_step_sim_seconds": 0.19644999999999999,
+    "end_reason": "time_limit"
+  }
+]

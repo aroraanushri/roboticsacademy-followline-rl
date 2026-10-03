@@ -1,0 +1,82 @@
+[
+  {
+    "episode": 0,
+    "steps": 10,
+    "return": 9.947679725009948,
+    "mean_abs_image_error": 0.0052320274990051985,
+    "mean_step_sim_seconds": 0.18499999999999944,
+    "end_reason": "smoke_limit"
+  },
+  {
+    "episode": 1,
+    "steps": 10,
+    "return": 9.94776564463973,
+    "mean_abs_image_error": 0.005223435536026955,
+    "mean_step_sim_seconds": 0.175,
+    "end_reason": "smoke_limit"
+  },
+  {
+    "episode": 2,
+    "steps": 10,
+    "return": 9.947679725009948,
+    "mean_abs_image_error": 0.0052320274990051985,
+    "mean_step_sim_seconds": 0.17999999999999972,
+    "end_reason": "smoke_limit"
+  },
+  {
+    "episode": 3,
+    "steps": 10,
+    "return": 9.947679725009948,
+    "mean_abs_image_error": 0.0052320274990051985,
+    "mean_step_sim_seconds": 0.17999999999999972,
+    "end_reason": "smoke_limit"
+  },
+  {
+    "episode": 4,
+    "steps": 10,
+    "return": 9.947679725009948,
+    "mean_abs_image_error": 0.0052320274990051985,
+    "mean_step_sim_seconds": 0.2049999999999997,
+    "end_reason": "smoke_limit"
+  },
+  {
+    "episode": 5,
+    "steps": 10,
+    "return": 9.947679725009948,
+    "mean_abs_image_error": 0.0052320274990051985,
+    "mean_step_sim_seconds": 0.19500000000000028,
+    "end_reason": "smoke_limit"
+  },
+  {
+    "episode": 6,
+    "steps": 10,
+    "return": 9.947679725009948,
+    "mean_abs_image_error": 0.0052320274990051985,
+    "mean_step_sim_seconds": 0.18500000000000086,
+    "end_reason": "smoke_limit"
+  },
+  {
+    "episode": 7,
+    "steps": 10,
+    "return": 9.947679725009948,
+    "mean_abs_image_error": 0.0052320274990051985,
+    "mean_step_sim_seconds": 0.19000000000000056,
+    "end_reason": "smoke_limit"
+  },
+  {
+    "episode": 8,
+    "steps": 10,
+    "return": 9.947679725009948,
+    "mean_abs_image_error": 0.0052320274990051985,
+    "mean_step_sim_seconds": 0.18500000000000086,
+    "end_reason": "smoke_limit"
+  },
+  {
+    "episode": 9,
+    "steps": 10,
+    "return": 9.947679725009948,
+    "mean_abs_image_error": 0.0052320274990051985,
+    "mean_step_sim_seconds": 0.175,
+    "end_reason": "smoke_limit"
+  }
+]

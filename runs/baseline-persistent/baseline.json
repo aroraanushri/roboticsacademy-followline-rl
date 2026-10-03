@@ -1,0 +1,10 @@
+[
+  {
+    "episode": 0,
+    "steps": 100,
+    "return": 99.47126192213038,
+    "mean_abs_image_error": 0.005284614185802639,
+    "mean_step_sim_seconds": 0.20199999999999999,
+    "end_reason": "time_limit"
+  }
+]

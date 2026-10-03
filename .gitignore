@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+*.egg-info/
+.venv/
+*.bak
+*.before-*.py
+runs/*
+!runs/ppo-pilot-4/
+!runs/evaluation-pilot-4/
+!runs/smoke-pose-worker/
+!runs/baseline-persistent/
+!runs/preflight/
