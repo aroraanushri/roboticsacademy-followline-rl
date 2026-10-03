@@ -6,13 +6,12 @@ NumPy actor export, editor runner, and recorded evaluation results.
 
 Developed by Anushri Arora following
 [JdeRobot discussion #404](https://github.com/orgs/JdeRobot/discussions/404).
-This is an experimental contribution candidate, not an upstream integration or
-a migration of RL-Studio. Reinforcement learning offers a useful robotics
-learning path: defining observations, actions and rewards, training in simulation,
+Reinforcement learning offers a useful robotics learning path: defining observations, actions and rewards, training in simulation,
 and deploying a policy through a robot interface. This pilot provides a small
 practical example relevant to Physical AI learning.
 
 ## Evidence and scope
+[Screencast from 10-03-2026 01:31:35 PM.webm](https://github.com/user-attachments/assets/455f874e-4c0c-45f7-acce-ffb5e3a463de)
 
 The bundled PPO checkpoint contains **2,048 training timesteps**. Three
 subsequent deterministic evaluations each reached the 1,000-step time limit
